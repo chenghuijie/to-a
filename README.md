@@ -1,2 +1,2 @@
 # to-a
-npm demo
+npm: <https://www.npmjs.com/package/to-a>
