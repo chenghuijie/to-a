@@ -1,2 +1,2 @@
-# devil-a
-npm: <https://www.npmjs.com/package/devil-a>
+# try-a
+npm: <https://www.npmjs.com/package/try-a>
