@@ -1,2 +1,2 @@
-# to-a
-npm: <https://www.npmjs.com/package/to-a>
+# devil-a
+npm: <https://www.npmjs.com/package/devil-a>

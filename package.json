@@ -1,17 +1,21 @@
 {
-  "name": "to-a",
+  "name": "devil-a",
   "description": "demo for npm",
   "repository": {
     "type": "git",
-    "url": "git@github.com:chenghuijie/to-a.git"
+    "url": "git@github.com:chenghuijie/devil-a.git"
   },
   "author": "chenghuijie",
   "license": "MIT",
-  "homepage": "https://github.com/chenghuijie/to-a",
+  "homepage": "https://github.com/chenghuijie/devil-a",
   "bugs": {
-    "url": "https://github.com/chenghuijie/to-a/issues"
+    "url": "https://github.com/chenghuijie/devil-a/issues"
   },
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "devil-b": "1",
+    "devil-c": "1",
+    "devil-d": "1"
+  },
   "version": "0.0.0"
 }
